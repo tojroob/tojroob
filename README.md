@@ -2,8 +2,8 @@
 - 🔭 I’m currently working on Fufluns, an iOS Posture Checking app.
 - 🌱 I’m currently using SwiftUI for Fufluns, React.js for web development, Python for Data Structures and Algorithms.
 
-LinkedIn: [site name](https://www.linkedin.com/in/james-yang-905761146/)
-Website: [site name](https://tojroob.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/james-yang-905761146/)
+- [Website](https://tojroob.netlify.app/)
 
 <!--
 **tojroob/tojroob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
